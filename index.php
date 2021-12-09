@@ -167,6 +167,12 @@ require_once("mysql_db.php");
 			</div><!-- end navbar -->
             <hr>
             <br>
+
+			<div class="container">
+				<a href="timetable.php">TimeTable</a>
+			</div>
+
+
 			<div class="row" id="moreCourses">
 				<div class="col-12">
 					<h3>Recent Courses (<a href="recentCourses.php">View All</a>)</h3>
